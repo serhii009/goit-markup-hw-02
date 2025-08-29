@@ -151,6 +151,7 @@ line-height: 111%;
 letter-spacing: 0.02em;
 text-align: center;
 color: #2e2f42;
+    text-transform: capitalize;
 }
 
 .team-menu-list {
@@ -188,6 +189,7 @@ color: #2e2f42;
  text-transform: capitalize; 
 }
 .portfolio-menu-item {
+    background-color: #FFFFFF;
 }
 .portfolio-item-title {
     font-weight: 500;
