@@ -51,12 +51,13 @@ color: #2e2f42;
 }
 
 .header-menu-item__link {
+    color: #2e2f42;
 }
 .header-contacts {
      font-style: normal
 }
 .header-contacts-list {
-    color: #2e2f42;
+    color: #434455;
 
 }
 
@@ -80,7 +81,6 @@ font-style: normal;
 }
 
 .header-contacts-item__link {
-
 }
 
 
